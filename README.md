@@ -1,1 +1,1 @@
-# Directory explorer Application
+# Directory Explorer Application
